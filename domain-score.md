@@ -22,7 +22,7 @@ In order to determine the vulnerability score of a domain, we've grouped the mea
 | SSL | 0.1 |
 | Headers | 0.7 ||
 
-Cookies and Security Headers are incredibly important parameters when configuring a domain. They ensure that the information is only transmitted secure connections and that session IDs can't be stolen via XSS or Man-in-the-Middle attacks, for example.
+Cookies and Security Headers are incredibly important parameters when configuring a domain. They ensure that the information is only transmitted via secure connections and that session IDs can't be stolen via XSS or Man-in-the-Middle attacks, for example.
 
 As for SSL, we check if the domain allows for SSL connections and if so, if it is correctly configured (the information transmitted would be encrypted).
 
