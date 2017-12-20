@@ -20,8 +20,8 @@ This is our first attempt at creating this open-framework.
 
 ## IP Vulnerability Scoring
 
-To learn more about our IP Vulnerability Scoring System, please refer to the document ip-score.md in this repo.
+To learn more about our IP Vulnerability Scoring System, please refer to the document [IP-SCORE](https://github.com/balgan/ratemyip-openframework/blob/master/ip-score.md) in this repo.
 
 ## Domain Vulnerability Scoring
 
-To learn more about our Domain Vulnerability Scoring System, please refer to the document domain-score.md in this repo.
+To learn more about our Domain Vulnerability Scoring System, please refer to [DOMAIN-SCORE](https://github.com/balgan/ratemyip-openframework/blob/master/domain-score.md) in this repo.
