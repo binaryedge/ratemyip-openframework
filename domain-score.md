@@ -56,7 +56,7 @@ As for SSL, we check if the domain allows for SSL connections and if so, if it i
 ### 3. Headers
 (*headers_score*)
 
-Please refer to [IP Scoring - Web](#Web)
+Please refer to [IP Scoring - Web](https://github.com/balgan/ratemyip-openframework/blob/master/ip-score.md#5-web)
 
 
 
